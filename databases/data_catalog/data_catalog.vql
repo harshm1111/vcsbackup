@@ -1,0 +1,5 @@
+﻿CREATE OR REPLACE DATABASE data_catalog '';
+
+ALTER DATABASE data_catalog
+  CHARSET DEFAULT;
+
